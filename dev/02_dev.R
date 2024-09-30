@@ -45,8 +45,11 @@ usethis::use_test("app")
 
 # Documentation
 
+## README ----
+devtools::build_readme()
+
 ## Vignette ----
-usethis::use_vignette("cytotransf")
+usethis::use_vignette("cytotransformer")
 devtools::build_vignettes()
 
 ## Code Coverage----

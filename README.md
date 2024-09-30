@@ -1,16 +1,19 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# cytotransf
+# cytotransformer
 
 <!-- badges: start -->
+
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
-The goal of cytotransf is to …
+The goal of cytotransformer is to …
 
 ## Installation
 
-You can install the development version of cytotransf from
+You can install the development version of cytotransformer from
 [GitHub](https://github.com/) with:
 
 ``` r
@@ -23,7 +26,7 @@ devtools::install_github("i-cyto/cytotransf")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(cytotransf)
+library(cytotransformer)
 ## basic example code
 ```
 
